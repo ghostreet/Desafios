@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Cam actualizada",
+    "descripcion": "producto fotografico, eos 60d",
+    "price": 750000,
+    "thumbnail": "camara.jpg",
+    "code": 2510,
+    "stock": 10
+  }
+ ]
